@@ -28,7 +28,7 @@ const PORTFOLIO_DATA = {
       title: 'The Khwopa - An E-Commerce Platform',
       description: 'A full-featured ecommerce website with frontend and admin panel for catalog and order management.',
       tags: ['NextJS', 'Node.js', 'Express.JS', 'PostgreSQL', 'Stripe', 'Prisma ORM'],
-      link: 'thekhwopa.com'
+      link: 'https://thekhwopa.com'
     },
     {
       title: 'AI-Powered Consultancy Chatbot (RAG-Based)',
