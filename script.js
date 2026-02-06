@@ -1,7 +1,12 @@
 
 const PORTFOLIO_DATA = {
-  skills: ['Javascript', 'Typescript', 'Python', 'C#', 'React', 'Next.JS', 'TailwindCSS', 'ShadcnUI', 'Framer Motion', 'GSAP', 'Node.JS', 'Express.JS', 'NestJS', 'FastAPI', '.NET web API', 'PostgreSQL', 'MySQL', 'ORMs'],
 
+  skills: [
+    'JavaScript', 'TypeScript', 'Python', 'C#',
+    'React', 'Next.js', 'TailwindCSS',
+    'Node.js', 'Express.js', '.NET Web API',
+    'PostgreSQL', 'MySQL'
+  ],
   experience: [
     {
       company: 'Infotraid Technology',
